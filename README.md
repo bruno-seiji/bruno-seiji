@@ -1,8 +1,9 @@
 ### Olá, Eu sou Bruno Seiji
 
 ---
-
-* :books: Atualmente estudo front, para ingressar no mercado
+* :mortar_board: Graduado em Engenharia Elétrica
+* :books: Atualmente estudo front (HTML, CSS e Javascript), para ingressar no mercado
+* :open_book: Tenho Conhecimento em VBA, C e C++
 
 ---
 
