@@ -2,8 +2,8 @@
 
 ---
 * :mortar_board: Graduado em Engenharia Elétrica
-* :open_book: Tenho Conhecimento em VBA, C e C++
-* :books: Atualmente estudo front (HTML, CSS e Javascript), para ingressar no mercado
+* :open_book: Tenho Conhecimento em VBA, C e C++, HTML, CSS e Javascript.
+* :books: Atualmente estudo front React.Js, para ingressar no mercado.
 
 ---
 
