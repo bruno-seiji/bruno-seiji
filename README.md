@@ -21,6 +21,7 @@
   <img align="center" alt="Bruno-C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor"/>
   <img align="center" alt="Bruno-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor"/>
   <img align="center" alt="Bruno-tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img align="center" alt="Bruno-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 </div>
   
   ***
