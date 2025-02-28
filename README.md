@@ -20,7 +20,9 @@
   <img align="center" alt="Bruno-C++" height="30" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor"/>
   <img align="center" alt="Bruno-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor"/>
   <img align="center" color="blue" alt="Bruno-tailwindcss" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
-    <img align="center" alt="Bruno-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="Bruno-sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="Bruno-vue" height="30" width="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+          
 </div>
   
   ***
