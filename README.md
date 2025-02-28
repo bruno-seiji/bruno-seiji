@@ -1,9 +1,10 @@
 ### Olá, Eu sou Bruno Seiji
 
 ---
-* :mortar_board: Graduado em Engenharia Elétrica
+* :mortar_board: Graduado em Engenharia Elétrica e graduando de Analise e Desenvolvimento de Sistemas
 * :open_book: Tenho Conhecimento em VBA, C, C++, HTML, CSS e Javascript.
-
+* :blue_book: Atualmente estudo Vue.js
+* :eyeglasses: Procuro uma colocação no mercado Front-End
 ---
 
 <div>
